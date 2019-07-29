@@ -1,0 +1,21 @@
+{
+	"name": "nmdl",
+	"version": "2.0.0",
+	"description": "dsc",
+	"license": "MIT",
+	"repository": "ahmadawais/nmdl",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"nmdl",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
+}

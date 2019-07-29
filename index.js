@@ -1,0 +1,3 @@
+/* NMDL */
+
+module.exports = () => {};
